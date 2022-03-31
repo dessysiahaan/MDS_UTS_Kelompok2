@@ -13,5 +13,5 @@ Amir A. Dalimunthe (G1501211006)
 
 Dessy R. N. Siahaan (G1501211027)
 
-Nabila Ghoni (G14180064)
+Nabila Ghoni T. H. (G14180064)
 
