@@ -1,6 +1,6 @@
 name: DataBroadcasting
 
-on:
+on: 
   schedule:
     -  cron: '* * * * *'  # Every weekdays on 20:30 UST
 
