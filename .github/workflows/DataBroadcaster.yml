@@ -2,7 +2,7 @@ name: DataBroadcasting
 
 on: 
   schedule:
-    -  cron: '* * * * *'  # Every weekdays on 20:30 UST
+    -  cron: '30 20 * * 1-5'  # Every weekdays on 20:30 UST
 
 
 jobs:
